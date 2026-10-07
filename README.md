@@ -229,4 +229,16 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+```text
+MIT License - Copyright (c) 2026 Sonali Biradar & CodeNexus Contributors
+Free to use, modify, distribute, and integrate for personal or commercial projects.
+```
+
+---
+
+<p align="center">
+  Built with ❤️ for developers exploring complex software architectures.
+</p>
+
