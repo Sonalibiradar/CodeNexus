@@ -1,4 +1,4 @@
-# 🌐 CodeNexus
+# 🌐 CodeNexus 
 
 > **Autonomous Codebase Intelligence & Architecture Explorer**  
 > *Map symbols, trace imports, visualize dependency graphs, simulate impact blast radius, and chat with your code with zero hallucinations.*
